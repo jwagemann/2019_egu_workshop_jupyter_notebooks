@@ -4,10 +4,10 @@ A short course given at EGU 2019 | 10 April 2019
 [Link to nbviewer](https://nbviewer.jupyter.org/github/jwagemann/2019_egu_workshop_jupyter_notebooks/blob/master/index.ipynb)
 
 ## Outline
-* Introducing Jupyter Notebooks - Data analysis made simple
-* Data access with Jupyter Notebooks from different data repositories
-* Introducing Jupyter widgets - Make your data analysis and visualisation interactive
-* Jupyterlab, JupyterHub, ... - Getting to know the Jupyter environment
+* [Introducing Jupyter Notebooks - Data analysis made simple](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks/blob/master/01_Introduction_Jupyter_Notebooks.ipynb)
+* [Data access with Jupyter Notebooks from different data repositories](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks/blob/master/02_Geospatial_Data_Access.ipynb)
+* [Introducing Jupyter widgets - Make your data analysis and visualisation interactive](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks/blob/master/03_Introduction_Jupyter_widgets.ipynb)
+* [Jupyterlab, JupyterHub, ... - Getting to know the Jupyter environment](https://github.com/jwagemann/2019_egu_workshop_jupyter_notebooks/blob/master/04_Jupyter_Environment.ipynb)
 
 
 ## At the end of this short course
@@ -22,7 +22,7 @@ A short course given at EGU 2019 | 10 April 2019
 * [cdsapi](https://pypi.org/project/cdsapi/) (requires registration)
 * [Earth Engine Python API](https://github.com/google/earthengine-api) (requires registration)
 * [Plotly](https://github.com/plotly/plotly.py) (requires registration)
-* [widgets(https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html)
+* [widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html)
 * [ipyleaflet](https://ipyleaflet.readthedocs.io/en/latest/)
 
 ## Links to open data repositories:
